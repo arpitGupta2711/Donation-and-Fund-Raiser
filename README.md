@@ -6,4 +6,4 @@ If you want donation first you need to fill out the receiver registration form a
 
 Donor has to simply look on the receivers list section and donate to that person directly with the information provided there. And then he has to provide the information to the admin by filling the form donor registration and if find genuine, receivers money will be updated by admin and his/her name will be on the donors list. You have to take screenshot of successful donation in reciever bank account and upload it in google drive (shared publically). You have to provide link of google drive in donor registration form as a proof of donation.
 
-This website is developed by three students of Pandit Dwarrka Prasad Mishra Indian Institute of Information Technology , Jabalpur , Madhya Pradesh , India. The students are Arpit Gupta (20BCS041) , Ashray Jain (20BCS043) and Ashutosh (20BCS044).
+This is a group project developed by three students of Pandit Dwarrka Prasad Mishra Indian Institute of Information Technology , Jabalpur , Madhya Pradesh , India. The students are Arpit Gupta  , Ashray Jain  and Ashutosh.
